@@ -32,11 +32,11 @@ Journal of Theoretical Biology, 567 (2023), 111490.
 
 * Modeling the effect of reactive oxygen species and CTL immune response on HIV dynamics.\
 *__Qi Deng__, Ting Guo, Zhipeng Qiu, Libin Rong*\
-International Journal of Bifurcation and Chaos, 31(13) (2021), 2150203.
+International Journal of Bifurcation and Chaos, 31(13)(2021), 2150203.
 
 * Modeling within-host viral dynamics: The role of CTL immune response in the evolution of drug resistance.\
 *__Qi Deng__, Zhipeng Qiu, Ting Guo, Libin Rong*\
-Discrete and Continuous Dynamical Systems-B, 26(7) (2021), 3543-3562. 
+Discrete and Continuous Dynamical Systems-B, 26(7)(2021), 3543-3562. 
 
 Talks
 ---

@@ -23,7 +23,7 @@ Journal of Mathematical Biology, 89(1)(2024), 6.
 Mathematical Biosciences, 355 (2023), 108954.
 
 * Modeling the cytotoxicity of Romidepsin reveals the ineffectiveness of this drug in the “shock and kill” strategy.\
-*__Qi Deng__,Ting Guo, Zhipeng Qiu, Yuming Chen*\
+*__Qi Deng__, Ting Guo, Zhipeng Qiu, Yuming Chen*\
 Chaos, Solitons & Fractals, 173 (2023), 113702.
 
 * HIV infection dynamics and viral rebound: Modeling results from humanized mice.\
@@ -37,10 +37,6 @@ International Journal of Bifurcation and Chaos, 31(13) (2021), 2150203.
 * Modeling within-host viral dynamics: The role of CTL immune response in the evolution of drug resistance.\
 *__Qi Deng__, Zhipeng Qiu, Ting Guo, Libin Rong*\
 Discrete and Continuous Dynamical Systems-B, 26(7) (2021), 3543-3562. 
-
-* Analysis of oncolytic virotherapy model with the natural killer cells.\
-*Yan Zhao, Zhipeng Qiu, __Qi Deng__*\
-Journal of Ludong University, 40(1)(2024): 66-75. 
 
 Talks
 ---

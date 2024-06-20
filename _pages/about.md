@@ -58,11 +58,9 @@ Yangzhou University, China, Dec 2020.
 
 Grants
 ---
-* Nanjing University of Science and Technology Excellent Doctoral Cultivation Grants
-2022-2023, $4000 (PI) 
+* Nanjing University of Science and Technology Excellent Doctoral Cultivation Grants, 2022-2023, $4000 (PI) 
 
-* Jiangsu Province Graduate Student Research and Practice Innovation Program Project
-2021-2022, $3000 (PI) 
+* Jiangsu Province Graduate Student Research and Practice Innovation Program Project, 2021-2022, $3000 (PI) 
 
 Teaching
 ---

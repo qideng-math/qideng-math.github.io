@@ -14,6 +14,10 @@ My research focuses on mathematical modeling, dynamical systems, and theoretical
 
 Publications
 ---
+* HIV infection dynamics with broadly neutralizing antibodies and CTL immune response.\
+*Ting Guo, __Qi Deng__, Shasha Gao, Zhipeng Qiu, Libin Rong*\
+Discrete and Continuous Dynamical Systems-S, doi: 10.3934/dcdss.2024151. 
+
 * A mathematical model for HIV dynamics with multiple infections: Implications for immune escape.\
 *__Qi Deng__, Ting Guo, Zhipeng Qiu, Yuming Chen*\
 Journal of Mathematical Biology, 89(1)(2024), 6. 

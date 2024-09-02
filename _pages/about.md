@@ -40,6 +40,12 @@ Discrete and Continuous Dynamical Systems-B, 26(7)(2021), 3543-3562.
 
 Talks
 ---
+* The MfPH International Collaborative Summer Program in NonlinearDifferential Equations with Applications.\
+York University, Canada, Aug 2024.
+
+* Contributed Session.\
+Canadian Applied and Industrial Mathematics Society, Kingston, Canada, Jun 2024.
+
 * Special Session on Dynamical Systems in Biological and Engineering Applications.\
 The VI AMMCS International Conference, Waterloo, Canada, Aug 2023. 
 

@@ -6,14 +6,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoc in [LIAM (Laboratory for Industrial and Applied Mathematics)](https://liam.lab.yorku.ca/) at York University, working under the supervision of [Prof. Jianhong Wu](https://scholar.google.ca/citations?user=Ox-xAuIAAAAJ&hl=en). 
+I am a postdoc in [LIAM (Laboratory for Industrial and Applied Mathematics)](https://liam.lab.yorku.ca/) at York University since March 2024, working under the supervision of [Prof. Jianhong Wu](https://scholar.google.ca/citations?user=Ox-xAuIAAAAJ&hl=en). 
 
-Previously, I was a visiting researcher at Wilfrid Laurier University, hosted by [Prof. Yuming Chen](https://www.wlu.ca/academics/faculties/faculty-of-science/faculty-profiles/yuming-chen/index.html). I received my Ph.D. in Mathematics from Nanjing University of Science and Technology, advised by Prof. Zhipeng Qiu. 
+Previously, I was a visiting researcher at Wilfrid Laurier University from 2022-2024, hosted by [Prof. Yuming Chen](https://www.wlu.ca/academics/faculties/faculty-of-science/faculty-profiles/yuming-chen/index.html). I received my Ph.D. in Mathematics from Nanjing University of Science and Technology in 2023, advised by Prof. Zhipeng Qiu. 
 
-My research focuses on mathematical modeling, dynamical systems, and theoretical immunology.
+My research focuses on mathematical biology, particularly in modeling sexually transmitted diseases and theoretical immunology. My main interests and recent works include data-driven mathematical modeling, agent-based models, and deep learning. I have also worked on the theoretical analysis of ordinary differential equations and impulse differential equations, with a focus on stability and bifurcation analysis. 
 
 Publications
 ---
+* Modeling the interaction of cytotoxic T-lymphocytes and oncolytic viruses in a tumor microenvironment .\
+*Yan Zhao\*, __Qi Deng__\*, Zhipeng Qiu, Ting Guo, Shigui Ruan*\
+Accepted, SIAM Journal on Applied Mathematics.\
+\* These authors contributed equally to this work.
+
 * HIV infection dynamics with broadly neutralizing antibodies and CTL immune response.\
 *Ting Guo, __Qi Deng__, Shasha Gao, Zhipeng Qiu, Libin Rong*\
 Discrete and Continuous Dynamical Systems-S, doi: 10.3934/dcdss.2024151. 
@@ -44,6 +49,18 @@ Discrete and Continuous Dynamical Systems-B, 26(7)(2021), 3543-3562.
 
 Talks
 ---
+* Invited talk \
+Texas Tech University, Texas, United States, Feb 2025.
+
+* Invited talk \
+University of Guelph, Guelph, Canada, Jan 2025.
+
+* Session on Recent Advances in Differential Equations and Applications.\
+Canadian Mathematical Society, Vancouver, Canada, Dec 2024.
+
+* Session on Applications of Dynamical Systems in Biology.\
+Canadian Mathematical Society, Vancouver, Canada, Dec 2024.
+
 * The MfPH International Collaborative Summer Program in NonlinearDifferential Equations with Applications.\
 York University, Canada, Aug 2024.
 
@@ -73,3 +90,9 @@ Teaching
 * Dynamical System at Nanjing University of Science and Technology, Fall 2018.
 
 * Stability Theory at Nanjing University of Science and Technology, Spring 2020.
+
+
+
+
+
+\#__Last updated: Feb 08, 2025__

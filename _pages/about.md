@@ -18,7 +18,7 @@ Publications
 *__Qi Deng__, Woldegebriel Assefa Woldegerima, Wenjing Zhang, Ali Asgary, Jude Dzevela Kong, Sarah Flicker, Nicholas H Ogden, James Orbinski, Nicola Luigi Bragazzi, Jianhong Wu*\
 PLOS Computational Biology, 21(5)(2025): e1013073.
 
-* Modeling SARS-CoV-2 Infection Dynamics: Insights into Viral Clearance and Immune Synergy.\
+* Modeling SARS-CoV-2 infection dynamics: insights into viral clearance and immune synergy.\
 *Lele Fan, Zhipeng Qiu, __Qi Deng__, Ting Guo, Libin Rong*\
 Bulletin of Mathematical Biology, 87(6)(2025): 67.
 

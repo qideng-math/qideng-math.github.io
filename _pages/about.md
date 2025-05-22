@@ -14,44 +14,44 @@ My research focuses on mathematical biology, particularly in modeling sexually t
 
 Publications
 ---
-* Uncovering the impact of infection routes on within-host MPXV dynamics: Insights from a mathematical modeling study.\
+* (10) Uncovering the impact of infection routes on within-host MPXV dynamics: Insights from a mathematical modeling study.\
 *__Qi Deng__, Woldegebriel Assefa Woldegerima, Wenjing Zhang, Ali Asgary, Jude Dzevela Kong, Sarah Flicker, Nicholas H Ogden, James Orbinski, Nicola Luigi Bragazzi, Jianhong Wu*\
 PLOS Computational Biology, 21(5)(2025): e1013073.
 
-* Modeling SARS-CoV-2 infection dynamics: insights into viral clearance and immune synergy.\
+* (9) Modeling SARS-CoV-2 infection dynamics: insights into viral clearance and immune synergy.\
 *Lele Fan, Zhipeng Qiu, __Qi Deng__, Ting Guo, Libin Rong*\
 Bulletin of Mathematical Biology, 87(6)(2025): 67.
 
-* Modeling the interaction of cytotoxic T-lymphocytes and oncolytic viruses in a tumor microenvironment.\
+* (8) Modeling the interaction of cytotoxic T-lymphocytes and oncolytic viruses in a tumor microenvironment.\
 *Yan Zhao\*, __Qi Deng__\*, Zhipeng Qiu, Ting Guo, Shigui Ruan*\
 SIAM Journal on Applied Mathematics, 85(2)(2025): 983-1005.\
 \* These authors contributed equally to this work.
 
-* HIV infection dynamics with broadly neutralizing antibodies and CTL immune response.\
+* (7) HIV infection dynamics with broadly neutralizing antibodies and CTL immune response.\
 *Ting Guo, __Qi Deng__, Shasha Gao, Zhipeng Qiu, Libin Rong*\
 Discrete and Continuous Dynamical Systems-S, doi: 10.3934/dcdss.2024151. 
 
-* A mathematical model for HIV dynamics with multiple infections: Implications for immune escape.\
+* (6) A mathematical model for HIV dynamics with multiple infections: Implications for immune escape.\
 *__Qi Deng__, Ting Guo, Zhipeng Qiu, Yuming Chen*\
 Journal of Mathematical Biology, 89(1)(2024), 6. 
 
-* Towards a new combination therapy with vectored immunoprophylaxis for HIV: Modeling “shock and kill” strategy.\
+* (5) Towards a new combination therapy with vectored immunoprophylaxis for HIV: Modeling “shock and kill” strategy.\
 *__Qi Deng__, Ting Guo, Zhipeng Qiu, Yuming Chen*\
 Mathematical Biosciences, 355 (2023), 108954.
 
-* Modeling the cytotoxicity of Romidepsin reveals the ineffectiveness of this drug in the “shock and kill” strategy.\
+* (4) Modeling the cytotoxicity of Romidepsin reveals the ineffectiveness of this drug in the “shock and kill” strategy.\
 *__Qi Deng__, Ting Guo, Zhipeng Qiu, Yuming Chen*\
 Chaos, Solitons & Fractals, 173 (2023), 113702.
 
-* HIV infection dynamics and viral rebound: Modeling results from humanized mice.\
+* (3) HIV infection dynamics and viral rebound: Modeling results from humanized mice.\
 *Ting Guo, __Qi Deng__, Zhipeng Qiu, Libin Rong*\
 Journal of Theoretical Biology, 567 (2023), 111490.
 
-* Modeling the effect of reactive oxygen species and CTL immune response on HIV dynamics.\
+* (2) Modeling the effect of reactive oxygen species and CTL immune response on HIV dynamics.\
 *__Qi Deng__, Ting Guo, Zhipeng Qiu, Libin Rong*\
 International Journal of Bifurcation and Chaos, 31(13)(2021), 2150203.
 
-* Modeling within-host viral dynamics: The role of CTL immune response in the evolution of drug resistance.\
+* (1) Modeling within-host viral dynamics: The role of CTL immune response in the evolution of drug resistance.\
 *__Qi Deng__, Zhipeng Qiu, Ting Guo, Libin Rong*\
 Discrete and Continuous Dynamical Systems-B, 26(7)(2021), 3543-3562. 
 

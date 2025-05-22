@@ -10,7 +10,7 @@ I am a postdoc in [LIAM (Laboratory for Industrial and Applied Mathematics)](htt
 
 Previously, I was a visiting researcher at Wilfrid Laurier University from 2022-2024, hosted by [Prof. Yuming Chen](https://www.wlu.ca/academics/faculties/faculty-of-science/faculty-profiles/yuming-chen/index.html). I received my Ph.D. in Mathematics from Nanjing University of Science and Technology in 2023, advised by Prof. Zhipeng Qiu. 
 
-My research focuses on mathematical biology, particularly in modeling sexually transmitted diseases and theoretical immunology. My main interests and recent works include data-driven mathematical modeling, agent-based models, and deep learning. I have also worked on the theoretical analysis of ordinary differential equations and impulse differential equations, with a focus on stability and bifurcation analysis. 
+My research focuses on mathematical biology, particularly in modeling sexually transmitted diseases, vector-borne diseases and theoretical immunology. My main interests and recent works include data-driven mathematical modeling, agent-based models, and deep learning. I have also worked on the theoretical analysis of ordinary differential equations and impulse differential equations, with a focus on stability and bifurcation analysis. 
 
 Publications
 ---

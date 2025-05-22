@@ -14,9 +14,17 @@ My research focuses on mathematical biology, particularly in modeling sexually t
 
 Publications
 ---
-* Modeling the interaction of cytotoxic T-lymphocytes and oncolytic viruses in a tumor microenvironment .\
+* Uncovering the impact of infection routes on within-host MPXV dynamics: Insights from a mathematical modeling study.\
+*__Qi Deng__, Woldegebriel Assefa Woldegerima, Wenjing Zhang, Ali Asgary, Jude Dzevela Kong, Sarah Flicker, Nicholas H Ogden, James Orbinski, Nicola Luigi Bragazzi, Jianhong Wu*\
+PLOS Computational Biology, 21(5)(2025): e1013073.\
+
+* Modeling SARS-CoV-2 Infection Dynamics: Insights into Viral Clearance and Immune Synergy.\
+*Lele Fan, Zhipeng Qiu, __Qi Deng__, Ting Guo, Libin Rong*\
+Bulletin of Mathematical Biology, 87(6)(2025): 67.\
+
+* Modeling the interaction of cytotoxic T-lymphocytes and oncolytic viruses in a tumor microenvironment.\
 *Yan Zhao\*, __Qi Deng__\*, Zhipeng Qiu, Ting Guo, Shigui Ruan*\
-Accepted, SIAM Journal on Applied Mathematics.\
+SIAM Journal on Applied Mathematics, 85(2)(2025): 983-1005.\
 \* These authors contributed equally to this work.
 
 * HIV infection dynamics with broadly neutralizing antibodies and CTL immune response.\

@@ -109,9 +109,9 @@ Teaching
 ---
 * Mathematics for Health Studies at York University, Fall 2025.
   
-* Dynamical System at Nanjing University of Science and Technology, Fall 2018.
-
 * Stability Theory at Nanjing University of Science and Technology, Spring 2020.
+  
+* Dynamical System at Nanjing University of Science and Technology, Fall 2018.
 
 ---
 Visitors to this page come from: 
@@ -134,4 +134,4 @@ Visitors to this page come from:
 {% endif %}
 
 
-\#__Last updated: May 22, 2025__
+\#__Last updated: November, 2025__

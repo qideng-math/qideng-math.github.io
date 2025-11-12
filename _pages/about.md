@@ -10,7 +10,7 @@ I am a postdoc in [LIAM (Laboratory for Industrial and Applied Mathematics)](htt
 
 Previously, I was a visiting researcher at Wilfrid Laurier University from 2022-2024, hosted by [Prof. Yuming Chen](https://www.wlu.ca/academics/faculties/faculty-of-science/faculty-profiles/yuming-chen/index.html). I received my Ph.D. in Mathematics from Nanjing University of Science and Technology in 2023, advised by Prof. Zhipeng Qiu. 
 
-My research focuses on mathematical biology, particularly in modeling sexually infectious diseases transmission and theoretical immunology. My main interests and recent works include data-driven mathematical and statistical modeling for public health, Agent-based modeling and numerical simulation and AI and deep learning applications in epidemiology. I have also worked on the theoretical analysis of ordinary differential equations and impulse differential equations, with a focus on stability and bifurcation analysis. 
+My research focuses on mathematical biology, particularly in modeling sexually infectious diseases transmission and theoretical immunology. My main interests and recent works include data-driven mathematical and statistical modeling for public health, Agent-based modeling and numerical simulation, and AI and deep learning applications in epidemiology. I have also worked on the theoretical analysis of ordinary differential equations and impulse differential equations, with a focus on stability and bifurcation analysis. 
 
 Publications
 ---
@@ -57,6 +57,18 @@ Discrete and Continuous Dynamical Systems-B, 26(7)(2021), 3543-3562.
 
 Talks
 ---
+* STI/HIV 2025 World Congress\
+Montreal, Canada, Jul 2025.
+
+* Session on Modeling Complex Adaptive Systems in Life and Social Sciences\
+Society for Mathematical Biology Annual Meeting, Edmonton, Canada, Jul 2025.
+
+* Ontario Graduate Mathematics Conference\
+Toronto, Canada, Jun 2025.
+
+* Differential Equations and Applications to Biology\
+Le Havre, France, Jun 2025.
+
 * Invited talk \
 Texas Tech University, Texas, United States, Feb 2025.
 
@@ -95,6 +107,8 @@ Grants
 
 Teaching
 ---
+* Mathematics for Health Studies at York University, Fall 2025.
+  
 * Dynamical System at Nanjing University of Science and Technology, Fall 2018.
 
 * Stability Theory at Nanjing University of Science and Technology, Spring 2020.

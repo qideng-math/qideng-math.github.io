@@ -99,8 +99,25 @@ Teaching
 
 * Stability Theory at Nanjing University of Science and Technology, Spring 2020.
 
+---
+Visitors to this page come from: 
+{% if page.url == "/" %}
+  <!-- Start of ClustrMaps & eXTReMeTracker -->
+  <div style="display:flex; align-items:flex-start; margin-top:20px; gap:10px;">
+    
+    <!-- ClustrMaps -->
+    <div style="width:250px; height:180px; overflow:hidden;">
+      <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=3axLWWzpUqrCnmlv3rDxhUseajBzNrEe-3PuOgUISf0&cl=ffffff&w=a"></script>
+    </div>
 
-
+    <!-- eXTReMe Tracker -->
+    <div style="height:180px; display:flex; align-items:center;">
+      <script src="https://efreecode.com/js.js" id="eXF-qdengmat-0" async defer></script>
+    </div>
+    
+  </div>
+  <!-- End of ClustrMaps & eXTReMeTracker -->
+{% endif %}
 
 
 \#__Last updated: May 22, 2025__

@@ -68,8 +68,22 @@ International Journal of Bifurcation and Chaos, 31(13)(2021), 2150203.
 *__Qi Deng__, Zhipeng Qiu, Ting Guo, Libin Rong*\
 Discrete and Continuous Dynamical Systems-B, 26(7)(2021), 3543-3562. 
 
-Talks
+Conference organizations 
 ---
+* Minisymposium on Mathematical and AI-enhanced computational models for sexually transmitted diseases and other public health threats\
+2026 European Conference on Mathematical and Theoretical Biology, Graz, Austria, Jul 2026.
+
+* Session on AI and Mathematical Technologies for Decision Support in Public Health\
+2025 Canadian Mathematical Society Winter Meeting, Toronto, Canada, Dec 2025.
+
+Invited talks
+---
+* Minisymposium on Mathematical and AI-enhanced computational models for sexually transmitted diseases and other public health threats\
+2026 European Conference on Mathematical and Theoretical Biology, Graz, Austria, Jul 2026.
+
+* Session on AI and Mathematical Technologies for Decision Support in Public Health\
+2025 Canadian Mathematical Society Winter Meeting, Toronto, Canada, Dec 2025.
+  
 * STI/HIV 2025 World Congress\
 Montreal, Canada, Jul 2025.
 
@@ -82,10 +96,10 @@ Toronto, Canada, Jun 2025.
 * Differential Equations and Applications to Biology\
 Le Havre, France, Jun 2025.
 
-* Invited talk \
+* Biomathematics Seminar\
 Texas Tech University, Texas, United States, Feb 2025.
 
-* Invited talk \
+* Biomathematics Seminar Series\
 University of Guelph, Guelph, Canada, Jan 2025.
 
 * Session on Recent Advances in Differential Equations and Applications.\
@@ -120,11 +134,15 @@ Grants
 
 Teaching
 ---
-* Mathematics for Health Studies at York University, Fall 2025.
+* Course Director \& Instructor: Statistical Methods in Health Studies II at York University, Summer 2026.
   
-* Stability Theory at Nanjing University of Science and Technology, Spring 2020.
+* Course Director \& Instructor: Statistical Methods in Health Studies II, Winter 2026.
   
-* Dynamical System at Nanjing University of Science and Technology, Fall 2018.
+* Course Director \& Instructor: Mathematics for Health Studies at York University, Fall 2025.
+  
+* Instructor: Stability Theory at Nanjing University of Science and Technology, Spring 2020.
+  
+* Instructor: Dynamical System at Nanjing University of Science and Technology, Fall 2018.
 
 ---
 Visitors to this page come from: 

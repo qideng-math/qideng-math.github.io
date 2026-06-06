@@ -24,7 +24,7 @@ Open Forum Infectious Diseases 13 (1)(2026), ofaf782
 
 1. Modeling HIV dynamics under broadly neutralizing antibodies: the critical role of cell-to-cell virus transmission.\
 *Ting Guo, Zhaozong Zhang, Hao Wang, __Qi Deng__*\*\
-Journal of Theoretical Biology (2026): 112450.
+Journal of Theoretical Biology (2026): 112450.\
 \* Corresponding Author
 
 1. Uncovering the impact of infection routes on within-host MPXV dynamics: Insights from a mathematical modeling study.\

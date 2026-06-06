@@ -14,6 +14,17 @@ My research focuses on mathematical biology, particularly in modeling sexually i
 
 Publications
 ---
+1. An agent-based platform for simulating the impact of chlamydia vaccine in the US population.\
+*__Qi Deng__, Grégoire Ranson, Nicola L. Bragazzi, Valerie B. Castells, Sandra S. Chaves, Edward Thommes, and Jianhong Wu*\
+Nature Communications (2026). https://doi.org/10.1038/s41467-026-74025-9.
+
+1. The Impact of Chlamydia trachomatis on Male Infertility: A Systematic Review and Meta-Analysis.\
+*Nicola L. Bragazzi, Valerie B. Castells, __Qi Deng__, Grégoire Ranson, Jianhong Wu, Edward Thommes, and Sandra S. Chaves*\ 
+
+1. Modeling HIV dynamics under broadly neutralizing antibodies: the critical role of cell-to-cell virus transmission.\
+*Ting Guo, Zhaozong Zhang, Hao Wang, __Qi Deng__*\
+Journal of Theoretical Biology (2026): 112450.
+
 1. Uncovering the impact of infection routes on within-host MPXV dynamics: Insights from a mathematical modeling study.\
 *__Qi Deng__, Woldegebriel Assefa Woldegerima, Wenjing Zhang, Ali Asgary, Jude Dzevela Kong, Sarah Flicker, Nicholas H Ogden, James Orbinski, Nicola Luigi Bragazzi, Jianhong Wu*\
 PLOS Computational Biology, 21(5)(2025): e1013073.

@@ -73,7 +73,7 @@ Conference organizations
 * Minisymposium on Mathematical and AI-enhanced computational models for sexually transmitted diseases and other public health threats\
 2026 European Conference on Mathematical and Theoretical Biology, Graz, Austria, Jul 2026.
 
-* Session on AI and Mathematical Technologies for Decision Support in Public Health\
+* Session on AI and mathematical technologies for decision support in public health\
 2025 Canadian Mathematical Society Winter Meeting, Toronto, Canada, Dec 2025.
 
 Invited talks
@@ -134,11 +134,11 @@ Grants
 
 Teaching
 ---
-* Course Director \& Instructor: Statistical Methods in Health Studies II at York University, Summer 2026.
+* Course Director & Instructor: Statistical Methods in Health Studies II at York University, Summer 2026.
   
-* Course Director \& Instructor: Statistical Methods in Health Studies II, Winter 2026.
+* Course Director & Instructor: Statistical Methods in Health Studies II, Winter 2026.
   
-* Course Director \& Instructor: Mathematics for Health Studies at York University, Fall 2025.
+* Course Director & Instructor: Mathematics for Health Studies at York University, Fall 2025.
   
 * Instructor: Stability Theory at Nanjing University of Science and Technology, Spring 2020.
   

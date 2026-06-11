@@ -136,7 +136,7 @@ Teaching
 ---
 * Course Director & Instructor: Statistical Methods in Health Studies II at York University, Summer 2026.
   
-* Course Director & Instructor: Statistical Methods in Health Studies II, Winter 2026.
+* Course Director & Instructor: Statistical Methods in Health Studies II at York University, Winter 2026.
   
 * Course Director & Instructor: Mathematics for Health Studies at York University, Fall 2025.
   
